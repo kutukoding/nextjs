@@ -1,0 +1,27 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "Step by step mastering Nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kutukoding/nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kutukoding/nextjs/issues"
+  },
+  "homepage": "https://github.com/kutukoding/nextjs#readme",
+  "dependencies": {
+    "next": "^9.3.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
